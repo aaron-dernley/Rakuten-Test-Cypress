@@ -1,5 +1,5 @@
 # Rakuten-Test-Cypress
-Automated tests written for the QA Engineer test exercise at Rakuten
+Automated tests written as a test exercise for Rakuten
 
 All test files are located in the integrations folder
 

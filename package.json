@@ -20,6 +20,6 @@
   "devDependencies": {
     "cypress": "^3.4.1",
     "faker": "^4.1.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
